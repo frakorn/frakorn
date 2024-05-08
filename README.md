@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @frakorn
 - 👀 I’m interested in Front End develpment 
-- 🌱 I’m currently learning Angular and React
+- 🌱 I’m a Front End Angular and React developer
 - 📫 You can find me at frakorn@gmail.com
 
 <!---
